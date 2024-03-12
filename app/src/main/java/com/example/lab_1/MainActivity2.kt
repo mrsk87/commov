@@ -13,6 +13,7 @@ class MainActivity2 : AppCompatActivity() {
         closeBtn.setOnClickListener {
             finish()
 
+            //first commit
         };
     }
 }
