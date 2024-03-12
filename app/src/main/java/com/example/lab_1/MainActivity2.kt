@@ -14,6 +14,7 @@ class MainActivity2 : AppCompatActivity() {
             finish()
 
             //first commit
+            //second commit
         };
     }
 }
